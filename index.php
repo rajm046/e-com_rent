@@ -59,7 +59,7 @@
 		                  <span class="fa fa-angle-right"></span>
 		                </a>
 		            </div>
-		            <h2>Products on Rent</h2>
+		            <h2>Products for Rent</h2>
 					
 					 
 
@@ -70,7 +70,7 @@
 		       				<div class='box-body prod-body'>
 		       				<img src="images/suit.png" width='100%' height='230px' class='thumbnail'>
 		       				<h3>Royal Embroidery</h3>
-							<p>An ethnic royal embroideried suit desi...</p>
+							<p>An ethnic royal embroideried suit...</p>
 		       				</div>	
 		       				<div class='box-footer'>
 							  <i class="fa fa-plus-square"></i> <a style="font-weight:bold;" href="/rentall/product.php?product=royal-embroidery-suit">More Info</a>
@@ -84,7 +84,7 @@
 		       				<div class='box-body prod-body'>
 		       				<img src="images/gate.png" width='100%' height='230px' class='thumbnail'>
 		       				<h3>GATE CSE/IT 2022</h3>
-							   <p>Best selling Book for Gate CSE/IT 2022...</p>
+							   <p>Best selling Book for Gate CSE/IT...</p>
 		       				</div>	
 		       				<div class='box-footer'>
 							  <i class="fa fa-plus-square"></i> <a style="font-weight:bold;" href="/rentall/product.php?product=gate-cse-it-2022" >More Info</a>
@@ -110,7 +110,7 @@
 		       				<div class='box-body prod-body'>
 		       				<img src="images/dell-inspiron-5675-gaming-pc-recon-blue.jpg" width='100%' height='230px' class='thumbnail'>
 		       				<h3>Dell CPU</h3>
-							   <p>It's a Gaming PC+Windows OS...</p>
+							   <p>It's a Gaming PC + Windows...</p>
 		       				</div>	
 		       				<div class='box-footer'>
 							  <i class="fa fa-plus-square"></i> <a style="font-weight:bold;" href="http://localhost/rentall/product.php?product=dell-inspiron-5675" >More Info</a>
