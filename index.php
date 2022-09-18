@@ -1,6 +1,6 @@
 <?php include 'includes/session.php'; ?>
 <?php include 'includes/header.php'; ?>
-
+<!-- No responsiveness across multiple devices -->
 <body class="hold-transition skin-blue layout-top-nav">
 <div class="wrapper">
 	<?php

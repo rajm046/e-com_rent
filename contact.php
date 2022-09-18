@@ -1,6 +1,6 @@
 <?php include 'includes/session.php'; ?>
 
-  
+
 <?php include 'includes/header.php'; ?>
 <body class="hold-transition register-page">
 <div class="register-box">
@@ -50,9 +50,9 @@
           
           <hr>
       		<div class="row">
-    			<div class="col-xs-4">
+    			  
           			<button type="submit" class="btn btn-primary btn-block btn-flat" name="submit" style="border-radius:2px;"><i class="fa fa-check"></i> Submit</button>
-        		</div>
+        		
       		</div>
     	</form>
       <br>
