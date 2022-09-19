@@ -10,7 +10,7 @@
 	?>
 	<?php include 'includes/navbar.php'; ?>
 	 
-	  <div class="content-wrapper" style="background-color: #ffe6cc">
+	  <div class="content-wrapper" style="background-color: #ffcccc">
 	    <div class="container">
 
 	      <!-- Main content -->
@@ -143,6 +143,46 @@
 		       				</div>
 	       					</div>
 	       				</div>
+
+						   <div class='col-sm-4'>
+	       				<div class='box box-solid'>
+		       				<div class='box-body prod-body'>
+		       				<img src="images\Home Appliance_Vegetable Cutter.png" width='100%' height='230px' class='thumbnail'>
+		       				<h3>Pigeon Vegi Cutter</h3>
+							   <p>Efficient vegetable cutter.</p>
+		       				</div>	
+		       				<div class='box-footer'>
+							  <i class="fa fa-plus-square"></i> <a style="font-weight:bold;" href="http://localhost/rentall/product.php?product=dell-inspiron-15-5000">More Info</a>
+		       				</div>
+	       					</div>
+	       				</div>
+
+						   <div class='col-sm-4'>
+	       				<div class='box box-solid'>
+		       				<div class='box-body prod-body'>
+		       				<img src="images\Home Appliance_mixer.png" width='100%' height='230px' class='thumbnail'>
+		       				<h3>Mixer</h3>
+							   <p>Hitech super Mixer</p>
+		       				</div>	
+		       				<div class='box-footer'>
+							  <i class="fa fa-plus-square"></i> <a style="font-weight:bold;" href="http://localhost/rentall/product.php?product=dell-inspiron-15-5000">More Info</a>
+		       				</div>
+	       					</div>
+	       				</div>
+
+						   <div class='col-sm-4'>
+	       				<div class='box box-solid'>
+		       				<div class='box-body prod-body'>
+		       				<img src="images\Home Appliance_cooler.png" width='100%' height='230px' class='thumbnail'>
+		       				<h3>Usha Cooler</h3>
+							   <p>Affordable cooler</p>
+		       				</div>	
+		       				<div class='box-footer'>
+							  <i class="fa fa-plus-square"></i> <a style="font-weight:bold;" href="http://localhost/rentall/product.php?product=dell-inspiron-15-5000">More Info</a>
+		       				</div>
+	       					</div>
+	       				</div>
+
 
 
 
