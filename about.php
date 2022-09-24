@@ -90,7 +90,7 @@ html {
 <p>This website is about mini-project contributed by Prathmesh, Aaftab and Adarsh. It describes about the User Interface, where user can render the different products based on a particular category. If user has already registered then he/she can proceed to checkout the product to purchase it on Rent else need to sign up to proceed for checkout. For more information kindly go through our <a href="" data-toggle="modal" data-target="#myModal" style="color:#a1b0d4;">Terms & Conditions</a>.</p>
 </div>
 
-<h2 style="text-align:center">Our Team</h2>
+<h2 style="text-align:center">Our Teams</h2>
 <div class="row">
   <div class="column">
     <div class="card">
