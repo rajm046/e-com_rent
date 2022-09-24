@@ -25,20 +25,22 @@ function convertCurrency($curr){
 
 ?>
 <?php include 'includes/header.php'; ?>
+
 <body class="hold-transition skin-blue layout-top-nav">
-<div class="wrapper">
+    <div class="wrapper">
 
-	<?php include 'includes/navbar.php'; ?>
-	 
-	  <div class="content-wrapper" style="background-image: url('images/ecom.jpg');background-repeat: no-repeat;background-attachment: fixed;background-size: 100% 100%;opacity: 0.9;">
-	    <div class="container">
+        <?php include 'includes/navbar.php'; ?>
 
-	      <!-- Main content -->
-	      <section class="content">
-	        <div class="row">
-	        	<div class="col-sm-10">
-		            <h1 class="page-header" style="color:#bfff80;"><?php echo $cat['name']; ?></h1>
-		       		<?php
+        <div class="content-wrapper"
+            style="background-image: url('images/ecom.jpg');background-repeat: no-repeat;background-size: 100% 100%;opacity: 1;">
+            <div class="container">
+
+                <!-- Main content -->
+                <section class="content">
+                    <div class="row">
+                        <div class="col-sm-10">
+                            <h1 class="page-header" style="color:#bfff80;"><?php echo $cat['name']; ?></h1>
+                            <?php
 		       			
 		       			$conn = $pdo->open();
 
@@ -74,20 +76,21 @@ function convertCurrency($curr){
 
 						$pdo->close();
 
-		       		?> 
-	        	<!-- </div>
+		       		?>
+                            <!-- </div>
 	        	<div class="col-sm-3">
 	        		<?php include 'includes/sidebar.php'; ?>
 	        	</div> 
 	        </div> -->
-	      </section>
-	     
-	    </div>
-	  </div>
-  
-  	<?php include 'includes/footer.php'; ?>
-</div>
+                </section>
 
-<?php include 'includes/scripts.php'; ?>
+            </div>
+        </div>
+
+        <?php include 'includes/footer.php'; ?>
+    </div>
+
+    <?php include 'includes/scripts.php'; ?>
 </body>
+
 </html>
