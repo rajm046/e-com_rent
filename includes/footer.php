@@ -6,7 +6,7 @@
     color:orange;
   }
 </style>
-<footer class="main-footer" style="background-color:rgb(143,188,219);">
+<footer class="main-footer" style="background-color:rgb(152, 134, 164); padding-top:1px; padding-bottom:1px;">
     <div class="container" >
       <div class="pull-right hidden-xs">
       <a href="" data-toggle="modal" data-target="#myModal">Terms & Conditions</a><br>
